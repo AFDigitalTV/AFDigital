@@ -458,7 +458,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_key=69646b755f313030303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
  
-#EXTINF:-1 grup-title="MOVIES" tvg-logo="https://i.imgur.com/FXm0jc5.png", Flik
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/FXm0jc5.png", Flik
 #KODIPROP:inputstreamaddon=inputstream.adaptif
 #KODIPROP:inputstream.adaptive.manifest_type=tanda hubung
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
