@@ -1007,14 +1007,10 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
  
 
-#EXTINF:-1 tvg-id="LaLiga+" tvg-name="LaLiga+" tvg-logo="https://i.imgur.com/XGVDFIZ.png" group-title="SPORTS", LaLiga+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd
 
 
   
-#EXTINF:-1 tvg-country="US" tvg-logo="https://iili.io/Jp53CMB.jpg" group-title="SPORTS", GO3 Sport 1
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/NYmWRqg/GO3-Sport-1.png" group-title="SPORTS", GO3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1022,7 +1018,7 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/ma
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
  
 
-#EXTINF:-1 tvg-country="US" tvg-logo="https://iili.io/Jp5FJiN.jpg" group-title="SPORTS", GO3 Sport 3
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/wQs7Lbz/GO3-Sport-3.png" group-title="SPORTS", GO3 Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
