@@ -1390,6 +1390,7 @@ https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|Origin=https://claplivehdp
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 
+
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/SQlsmmH.png",ARENA SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1562,5 +1563,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/64869862/18743571/167742
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/64869862/18743571/167743
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/64869862/18743571/167744
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/64869862/18743571/167745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/64869862/18743571/167748
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/64869862/18743571/167749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/64869862/18743571/167750
 
