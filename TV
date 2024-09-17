@@ -1459,11 +1459,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;user
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fmn.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png",FMN 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd 
 
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png", KBS WORLD 
@@ -1471,11 +1466,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="visionprime.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png",Vision Prime 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd 
+ 
+
+#EXTINF:-1 tvg-id="Vision Prime - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png" group-title="ENTERTAINMENT",VISION PRIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
 
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="dunialain.id" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain 
