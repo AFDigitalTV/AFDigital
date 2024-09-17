@@ -962,13 +962,6 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ooWSTU4.png",ARENA 3 PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1020,12 +1013,7 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
   
-#EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/NYmWRqg/GO3-Sport-1.png" group-title="SPORTS", GO3 Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
  
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/wQs7Lbz/GO3-Sport-3.png" group-title="SPORTS", GO3 Sport 3
@@ -1344,6 +1332,8 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/o
 =========LIGA CHAMPIONS=========
 =========LIGA CHAMPIONS=========
 
+
+
 #EXTINF:-1 group-title="LIGA CHAMPIONS" tvg-logo="http://guki.my.id/logo/sports/1p.png",ARENA 1 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1419,6 +1409,29 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+
+==========LIGA SPANYOL==========
+==========LIGA SPANYOL==========
+==========LIGA SPANYOL==========
+==========LIGA SPANYOL==========
+==========LIGA SPANYOL==========
+
+
+#EXTINF:-1 group-title="LIGA SPANYOL LALIGA" tvg-logo="https://i.imgur.com/ooWSTU4.png",ARENA 3 PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/NYmWRqg/GO3-Sport-1.png" group-title="LIGA SPANYOL LALIGA", GO3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
 
 
 
