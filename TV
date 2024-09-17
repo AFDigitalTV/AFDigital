@@ -443,6 +443,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/S0BMmpm/ccm.png" group-title="MOVIES",CCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/
+ 
+ 
+ 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/S0BMmpm/ccm.png", CCM HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
