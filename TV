@@ -1016,10 +1016,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
  
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="btsport3.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 
 
@@ -1339,11 +1335,18 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/ou
 http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
+#EXTINF:-1 group-title="LIGA CHAMPIONS" tvg-id="btsport3.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+
 
 #EXTINF:-1 group-title="LIGA CHAMPIONS" tvg-id="btsport4.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
 
 
 #EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.postimg.cc/qq59P9F7/SS-Football.png" group-title="LIGA CHAMPIONS",Supersport Football 
