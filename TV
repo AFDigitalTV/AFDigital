@@ -962,10 +962,7 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5OewfNe.png",ARENA SPORT 1X2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1062,10 +1059,6 @@ https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|Origin=https://claplivehdpl
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium422/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="SS Grandstand" tvg-name="SS Grandstand" tvg-logo="https://i.postimg.cc/tRZ99kXx/SS-Grandstand.png" group-title="Sports",Supersport Grandstand 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|Origin=https://claplivehdplay.ru
 
 #EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://i.postimg.cc/HLMXXXmv/SS-La-Liga.png" group-title="Sports",Supersport LaLiga 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
@@ -1353,6 +1346,10 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/ou
 https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8|Origin=https://claplivehdplay.ru
 
 
+#EXTINF:-1 tvg-id="SS Grandstand" tvg-name="SS Grandstand" tvg-logo="https://i.postimg.cc/tRZ99kXx/SS-Grandstand.png" group-title="LIGA CHAMPIONS",Supersport Grandstand 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|Origin=https://claplivehdplay.ru
 
 
 
