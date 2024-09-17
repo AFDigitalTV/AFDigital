@@ -1025,10 +1025,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spor
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
  
-#EXTINF:-1 group-title="SPORTS" tvg-id="tntbrazil.br" tvg-logo="https://i.imgur.com/NqS48Rn.png",TNT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium87/index.m3u8|Origin=https://claplivehdplay.ru
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="btsport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1392,7 +1388,7 @@ https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:-1 tvg-country="US" tvg-logo="https://iili.io/Jp53UAb.jpg" group-title="SERIE A ITALIA", GO3 Sport 2 
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/HKQPdxp/GO3-Sport-2.png" group-title="SERIE A ITALIA", GO3 Sport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
