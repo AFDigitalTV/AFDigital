@@ -1746,7 +1746,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra1.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="BEIN ULTRA HD",beIN. ULTRA UHD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="BEIN AUTO",beIN
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=312095&extension=ts&play_token=aHlrpBpqDx
 
 
