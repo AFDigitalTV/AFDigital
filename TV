@@ -1070,9 +1070,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium420/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="SS Cricket" tvg-name="SS Cricket" tvg-logo="https://i.postimg.cc/gkp8CNRY/SS-Cricket.png group-title="Sports", Supersport Cricket 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-https://vipgoodlive-tvs.starcdn.live/SuperSport_Cricket_Live_TV/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SS Golf" tvg-name="SS Golf" tvg-logo="https://i.postimg.cc/3xDGpmC4/SS-Golf.png" group-title="Sports",Supersport Golf 
@@ -1092,6 +1090,10 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium424/index.m3u8|Origin=https://claplivehdplay.ru
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14957&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.ibb.co.com/HtVdGjS/ss-premierleague.png" group-title="Sports",Supersport Premier League 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -1103,10 +1105,6 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="SS Rugby" tvg-name="SS Rugby" tvg-logo="https://i.postimg.cc/BZKtm4Pk/SS-Rugby.png" group-title="Sports",Supersport Rugby 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium421/index.m3u8|Origin=https://claplivehdplay.ru
 
 #EXTINF:-1 tvg-id="SS Tennis" tvg-name="SS Tennis" tvg-logo="https://i.postimg.cc/43tDHLSK/SS-Tennis.png" group-title="Sports",Supersport Tennis 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
@@ -1124,6 +1122,9 @@ https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8|Origin=https://claplivehdplay.ru
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV TRUE
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -1418,25 +1419,29 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|Origin=https://claplivehdplay.ru
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="SuperSport MáXimo 1" tvg-name="SuperSport MáXimo 1" tvg-logo="https://i.ibb.co.com/gJxS6kL/ss-maximo.png" group-title="LIGA CHAMPIONS",SuperSport MáXimo 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium572/index.m3u8|Origin=https://claplivehdplay.ru
-
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
 
 
 #EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS Variety 3" tvg-logo="https://i.ibb.co.com/xgCGhCV/ss-variety3.png" group-title="LIGA CHAMPIONS",Supersport Variety 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8|Origin=https://claplivehdplay.ru
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
 
 
 #EXTINF:-1 tvg-id="SS Grandstand" tvg-name="SS Grandstand" tvg-logo="https://i.ibb.co.com/g3MSXmq/ss-grandstand.png" group-title="LIGA CHAMPIONS",Supersport Grandstand 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|Origin=https://claplivehdplay.ru
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14954&extension=ts
 
 
 
@@ -1497,6 +1502,8 @@ https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8|Origin=https://claplivehdplay.ru
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
+
 
 
 ==========LIGA SPANYOL==========
@@ -1666,18 +1673,14 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14962&extension=
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCgj621/ss-football.png" group-title="TEST", SuperSport Football
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+
 
 
 #EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png"group-title="TEST", SuperSport Golf
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14959&extension=ts
-#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png"group-title="TEST", SuperSport Motorsport 
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14957&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="TEST",  SuperSport Grandstand 
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14954&extension=ts
+
 
 
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14953&extension=ts
@@ -1687,16 +1690,13 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14953&extension=
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
 #EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="TEST",  SuperSport Tennis
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJxS6kL/ss-maximo.png" group-title="TEST",  SuperSport MaXimo
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
+
+
+
 #EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="TEST",  SuperSport Variety 1
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18684&extension=ts
-#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="TEST",  SuperSport Variety 2
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
-#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="TEST", SuperSport Variety 3
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
-#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="TEST",  SuperSport Variety 4
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
+
+
 
 
 
