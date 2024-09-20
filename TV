@@ -897,7 +897,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ///// MUSIK /////
 
 
-#EXTINF:0 tvg-name="Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="MUSIC",Citra Dangdut
+#EXTINF:0 tvg-name="Citra Dangdut" tvg-logo="https://i.ibb.co.com/pRGgn5g/citra-dangdut.png" group-title="MUSIC",Citra Dangdut
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd  
@@ -920,14 +920,14 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 BackupEXTINF:-1 group-title="MUSIC" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIC TV🔻
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
+#EXTINF:-1 group-title="MUSIC" tvg-logo ="https://i.ibb.co.com/MfRWjjL/9xm.png", 9XM india
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="MUSIC",IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.ibb.co.com/k26cWyz/imtv.png" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
