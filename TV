@@ -472,7 +472,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/S0BMmpm/ccm.png" group-title="MOVIES",CCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
-https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/
+#https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/
  
  
  
@@ -1048,7 +1048,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://iili.io/Jmoa0CX.png" group-title="SPORTS",MUTV |🏴󠁧󠁢󠁥󠁮󠁧󠁿|
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/YdngBPg/mutv.png" group-title="SPORTS",MUTV |🏴󠁧󠁢󠁥󠁮󠁧󠁿|
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 
@@ -1643,7 +1643,7 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS Variety 2" tvg-logo="https://i.postimg.cc/KzjY2yzX/SS-Variety-2.png" group-title="LIGA INGGRIS",Supersport Variety 2 
+#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS Variety 2" tvg-logo="https://i.ibb.co.com/18nv09H/ss-variety-2.png" group-title="LIGA INGGRIS",Supersport Variety 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8|Origin=https://claplivehdplay.ru
