@@ -1708,7 +1708,8 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
  
- #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/dGsNi5F.png" group-title="SERIE A ITALIA",LIVE FEED CH 6 HD
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/dGsNi5F.png" group-title="SERIE A ITALIA",LIVE FEED CH 6 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
