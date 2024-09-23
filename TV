@@ -12,6 +12,7 @@
 #http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25358
 
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="LIVE EVENT", MOJI TV
@@ -2181,3 +2182,24 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/846
 
 #EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 7
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/847
+
+#EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 1 PORTUGAL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128889
+
+#EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 2 PORTUGAL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128890
+
+#EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 3 PORTUGAL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128891
+
+#EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 4 PORTUGAL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128892
+
+#EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 5 PORTUGAL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128893
+
+#EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 6 PORTUGAL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128894
+
+#EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 7 PORTUGAL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128895
