@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="LIVE EVENT",INDOSIAR LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #http://108.181.132.217:8070/AmirBilali/76448035/162138
-
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_stream.mpd?hdnts=exp=1727130625~acl=/drm/dash/6299*~id=110853250~hmac=c3abecb73f46e6885df9fd2ed3b2054a62d0f65f368bf7a3b7ee9d8d5b39c736
 
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png",INDOSIAR LIVE
 #http://xtv.ooo:8080/321166661/52816191/350972
