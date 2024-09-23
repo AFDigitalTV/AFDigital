@@ -974,6 +974,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 ========SPORTS INDO========
 ========SPORTS INDO========
 ========SPORTS INDO========
+beinsports1kodipropinputstreamadaptivemanifesttypempdkodipropinputstreamadaptivelicensetypeclearkeykodipropinputstreamadaptivelicensekey57d2ac9210cfbca3596cc679a01c8b29d5e35c0f39c76adf24853d7ea18c71e7httpscempedakcdnflymncnowidliveedsbein01sadashvmxbein01mpdreferer.ts
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS INDO",Bein
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd|referer=https://www.visionplus.id/
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS INDO",Soccer Channel
