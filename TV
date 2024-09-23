@@ -7,13 +7,11 @@
 #http://108.181.132.217:8070/AmirBilali/76448035/162138
 
 
-
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png",INDOSIAR LIVE
 #http://xtv.ooo:8080/321166661/52816191/350972
 #http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25358
 
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="LIVE EVENT", MOJI TV
@@ -2161,3 +2159,25 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
+
+
+#EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/841
+
+#EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/842
+
+#EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/843
+
+#EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/844
+
+#EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/845
+
+#EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/846
+
+#EXTINF:-1 tvg-id="" group-title="BEIN | AR" tvg-logo="",BEIN SPORTS 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/847
