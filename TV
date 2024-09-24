@@ -895,10 +895,11 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ///// MUSIK /////
 
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://id.m.wikipedia.org/wiki/MTV#/media/Berkas%3AMTV_2021_(brand_version).svg" group-title="MUSIC",MTV ASIA
+
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://id.m.wikipedia.org/wiki/MTV#/media/Berkas%3AMTV_2021_(brand_version).svg" group-title="MUSIC",MTV 90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f:5008df022d78a9ec318a745cf8365b048
+#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
 https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
