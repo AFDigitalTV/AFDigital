@@ -1064,11 +1064,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4ObWfSy.png",ARENA SPORT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XdKPtEq.png",ARENA SPORT 5
@@ -1089,20 +1084,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co.com/jvctFzs/fifa.png" group-title="SPORTS" , FIFA+
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
- 
-
-
-
-  
-
- 
-
-#EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/wQs7Lbz/GO3-Sport-3.png" group-title="SPORTS", GO3 Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
  
 
 
@@ -1548,6 +1529,12 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/4ObWfSy.png",ARENA SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/b8SGccn.png",ARENA SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1834,6 +1821,13 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/ou
 #KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
  
+ 
+ #EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/wQs7Lbz/GO3-Sport-3.png" group-title="SERIE A ITALIA", GO3 Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
  
 #EXTINF:-1 tvg-id="TV4 Sport Live 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/1200px-TV4sweden_logo.svg.png" group-title="SERIE A ITALIA", TV4 Sport Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
