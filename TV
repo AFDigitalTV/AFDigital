@@ -5,8 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="LIVE EVENT",INDOSIAR LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #http://108.181.132.217:8070/AmirBilali/76448035/162138
-http://31.42.184.175:8080/live/play/YjBONFJscDBObUpZYVdwS0x6aFdPWFUxUXpGb09WSnBZbGQ2YkZsMlVGWllUMlp2ZDJJdk4yRm1XVDA9/350972
-
 
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png",INDOSIAR LIVE
 http://opplex.tv:8080/live/1525939/1552699/350972.ts
@@ -27,14 +25,11 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34327
 <=========================================== Indonesia Channels =======================================>
 
 
-
-
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Indonesia", GTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
 
 
 
@@ -912,6 +907,11 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://pbs.twimg.com/profile_images/1339938969836916740/8uLzwP-8.jpg" group-title="MUSIC", MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
+https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/MfRWjjL/9xm.png", 9XM india
