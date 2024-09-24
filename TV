@@ -896,9 +896,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 
+
 #EXTINF:0 tvg-logo="https://id.m.wikipedia.org/wiki/MTV#/media/Berkas%3AMTV_2021_(brand_version).svg" group-title="MUSIC",MTV ASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5008:df022d78a9ec318a745cf8365b048
+#KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
 https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|referer=https://www.visionplus.id/
 
 
