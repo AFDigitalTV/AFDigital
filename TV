@@ -900,7 +900,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://cempedak-cdn-fly.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
 #EXTINF:0 tvg-name="Citra Dangdut" tvg-logo="https://i.ibb.co.com/pRGgn5g/citra-dangdut.png" group-title="MUSIC",Citra Dangdut
