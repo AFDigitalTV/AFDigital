@@ -901,7 +901,7 @@ mtvasiahttpscempedakcdnflymncnowidliveedsmtvsadashvmxmtvmpdrefererhttpswwwvision
 #EXTINF:0 tvg-logo="https://id.m.wikipedia.org/wiki/MTV#/media/Berkas%3AMTV_2021_(brand_version).svg" group-title="MUSIC",MTV ASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
-https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|referer=https://www.visionplus.id/
 
 
 #EXTINF:0 tvg-name="Citra Dangdut" tvg-logo="https://i.ibb.co.com/pRGgn5g/citra-dangdut.png" group-title="MUSIC",Citra Dangdut
