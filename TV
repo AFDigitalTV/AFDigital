@@ -1097,7 +1097,7 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/ou
 
 
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co.com/j8hTkvr/dazn1.png" group-title="SPORTS",DAZN 1 España
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co.com/R4t0sNF/dazn1.png" group-title="SPORTS",DAZN 1 España
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
