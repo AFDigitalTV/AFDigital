@@ -1040,6 +1040,10 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ============SPORTS=============
 
 
+#EXTINF:-1 tvg-logo=".png" group-title="SPORTS",ASTRO SUPERSPORT1 FHD
+http://b1g.pw:80/live/12145/12145/709263.ts
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 2" tvg-logo="https://i.ibb.co.com/nQZWJ34/matchf2.png", MATCH! FOOTBALL 2 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
