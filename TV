@@ -918,6 +918,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-id="RodjaTV.id" tvg-logo="https://i.ibb.co.com/37Wjk3p/rodja.png",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://rodjatv.com/rodjatv/live.m3u8
+#https://flv.intechmedia.net/live/ch26.m3u8
+
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="alwafatarim.id" tvg-logo="https://i.ibb.co.com/mt2RzmN/alwafa.png",Al Wafa Tarim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -987,6 +989,51 @@ https://flv.intechmedia.net/live/ch11.m3u8
 https://flv.intechmedia.net/live/ch12.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST1
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch13.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch14.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST3
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch15.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST4
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch16.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST5
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch17.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST6
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch18.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST7
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch19.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST8
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch20.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST9
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch21.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",BINBAZ TV
@@ -1005,25 +1052,6 @@ https://flv.intechmedia.net/live/ch23.m3u8
 https://flv.intechmedia.net/live/ch25.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch26.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TEST2
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch27.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TES3
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch28.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TES4
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch29.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",WALA TV
@@ -1031,14 +1059,14 @@ https://flv.intechmedia.net/live/ch29.m3u8
 https://flv.intechmedia.net/live/ch30.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TES5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",PALIKO TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch31.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TES6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",TES
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch32.m3u8
+https://flv.intechmedia.net/live/ch33.m3u8
 
 
 ///// MUSIK /////
