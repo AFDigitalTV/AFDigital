@@ -1022,42 +1022,21 @@ https://flv.intechmedia.net/live/ch21.m3u8
 https://flv.intechmedia.net/live/ch22.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",MEDS TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch23.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch24.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",MGI TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch25.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch26.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch27.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch28.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch29.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",NIAGA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",WALA TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch30.m3u8
 
