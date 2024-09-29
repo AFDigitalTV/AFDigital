@@ -1443,20 +1443,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
  
- 
-
-
-#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS Variety 1" tvg-logo="https://i.postimg.cc/4dPp8GSr/SS-Variety-1.png" group-title="SPORTS",Supersport Variety 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8|Origin=https://claplivehdplay.ru
 
 
 
 #EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS Variety 4" tvg-logo="https://i.postimg.cc/ryHKW2Zw/GANAS-ss-var4.png" group-title="SPORTS",Supersport Variety 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8|Origin=https://claplivehdplay.ru
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
 
 
