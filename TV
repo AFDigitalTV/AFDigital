@@ -1294,7 +1294,7 @@ http://b1g.pw:80/live/12145/12145/709263.ts
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/zF7Qyes.png", DAZN F1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/fp808wS/Daznf1.png", DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd 
@@ -1343,7 +1343,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 
 
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/JhkZnna.png" group-title="SPORTS",DAZN F1 España
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co.com/fp808wS/Daznf1.png" group-title="SPORTS",DAZN F1 España
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
