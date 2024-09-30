@@ -588,6 +588,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/Gala
 https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
+#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://i.ibb.co.com/DbmRvf4/One.png",ONE
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 
 
 
@@ -603,16 +605,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
- 
-
-
-#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://i.ibb.co.com/DbmRvf4/One.png",ONE
-https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
- 
- 
- 
-#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
-https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
 
 
 
