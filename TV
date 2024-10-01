@@ -1177,6 +1177,22 @@ https://flv.intechmedia.net/live/ch30.m3u8
 https://flv.intechmedia.net/live/ch31.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="RELIGI",Dzikir Pagi
+https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DpGZOCMeioII5wpQscU03uduG5hvC3w52A&usqp=CAU" group-title="RELIGI",Dzikir Petang
+https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="RELIGI",Dzikir Sebelum Tidur
+https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+
+
+
 ///// MUSIK /////
 
 
