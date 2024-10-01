@@ -969,7 +969,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 
 
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="RELIGI",KHAZANAH
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanapng" group-title="RELIGI",NABAWI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
