@@ -979,6 +979,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/RB1Wt6d/Tawaftvpng"group-title="RELIGI",ASWAJA TV
+https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/RB1Wt6d/Tawaftv.png"group-title="RELIGI",TAWAF TV
