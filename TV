@@ -1897,7 +1897,7 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/dGsNi5F.png" group-title="UCL & UEL,LIVE FEED CH 8 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/dGsNi5F.png" group-title="UCL & UEL",LIVE FEED CH 8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
