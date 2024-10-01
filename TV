@@ -2398,12 +2398,31 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18684&extension=ts
 
 
-
-#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogpng" group-title="TEST",  Test
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.ibb.co.com/mCgj621/ss-football.png" group-title="#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.ibb.co.com/mCgj621/ss-football.png" group-title="TEST",Supersport Football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|Origin=https://claplivehdplay.ru
 
 
+
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.ibb.co.com/mCgj621/ss-football.png" group-title="#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.ibb.co.com/mCgj621/ss-football.png" group-title="TEST",Supersport Football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium2/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS Variety 3" tvg-logo="https://i.ibb.co.com/xgCGhCV/ss-variety3.png" group-title="TEST",Supersport Variety 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium1/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium3/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium4/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium5/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium6/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium7/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium8/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium9/index.m3u8|Origin=https://claplivehdplay.ru
+https://webhdrunns.mizhls.ru/lb/premium10/index.m3u8|Origin=https://claplivehdplay.ru
 
 
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 1
