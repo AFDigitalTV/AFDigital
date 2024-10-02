@@ -917,16 +917,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 
 
 
-#EXTINF:-1 group-title="KIDS" tvg-id="spacetoonarabic.ae" tvg-logo="https://iptv.urfan.web.id/logo/spacetoon.png",Spacetoon
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-
- 
-#EXTINF:-1 group-title="KIDS" tvg-id="pbskids.us" tvg-logo="https://iptv.urfan.web.id/logo/pbskids.png",PBS Kids
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-
 ///=========RELIGI=========///
 ///=========RELIGI=========///
 ///=========RELIGI=========///
@@ -969,7 +959,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 
 
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanapng" group-title="RELIGI",NABAWI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/30SkcBX/NabawiTV.png" group-title="RELIGI",NABAWI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -979,7 +969,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/RB1Wt6d/Tawaftvpng"group-title="RELIGI",ASWAJA TV
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/bv4DVQN/Aswaja.png"group-title="RELIGI",ASWAJA TV
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 
