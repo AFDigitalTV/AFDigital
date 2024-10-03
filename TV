@@ -1977,9 +1977,8 @@ https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MBycKrP/qazsport.png" group-title="UCL & UEL",QAZSPORT
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="UCL & UEL",RTL+ Sport Event 1 FHD
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298029
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/dGsNi5F.png" group-title="UCL & UEL",LIVE FEED CH 4 HD
