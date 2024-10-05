@@ -283,6 +283,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ======== LIVE EVENT========
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="LIVE EVENT",SCTV LIVE
+http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="LIVE EVENT",INDOSIAR LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -1169,7 +1172,7 @@ https://flv.intechmedia.net/live/ch25.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",WALA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJpng" group-title="RELIGI",WALAD TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch30.m3u8
 
