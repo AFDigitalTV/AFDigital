@@ -1371,11 +1371,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" group-title="ENTERTAINMENT",Vision Prime
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="ENTERTAINMENT",Entertainment
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2166,23 +2162,10 @@ https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://iili.io/JmoRv72.png" group-title="LIGA INGGRIS",V Sport 2 Nordic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="V sport 3 HD (N) (T)" tvg-logo="https://iili.io/JmoRkdl.png" group-title="LIGA INGGRIS",V Sport 3 Nordic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="V Sport Extra" tvg-logo="https://iili.io/dxJUrf2.png" group-title="LIGA INGGRIS",V Sport Extra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
