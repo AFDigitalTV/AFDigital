@@ -123,9 +123,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1712984211_b878000_s
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png", group-title="Indonesia", TV ONE
-https://ythls.kekikakademi.org/youtube/video/yNKvkPJl-tg.m3u8
-
 
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png",INEWS HD
