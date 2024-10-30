@@ -489,9 +489,6 @@ https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1
 
 
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png" group-title="DAERAH",GPR TV (YT)
-https://ythls.kekikakademi.org/youtube/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
-
 
 
 ============MOVIES===========
@@ -621,7 +618,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/FXm0jc5.png", Flik
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/FXm0jc5.png", FLIK (INDIHOME)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -840,7 +837,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43f
 
 
 
-#EXTINF:-1 tvg-id="IndiKids.id" tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png" group-title="KIDS",Fun Planet
+#EXTINF:-1 tvg-id="IndiKids.id" tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png" group-title="KIDS",Fun Planet (INDIHOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
