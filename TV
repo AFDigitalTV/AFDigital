@@ -2010,6 +2010,23 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/ou
 
 
 
+#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMWNRzzGkL4tihbSsGSMDBsE-KrFqGgzz1Q&usqp=CAU" group-title="UCL & UEL",beIN Sports 1 MY
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
+
+
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMWNRzzGkL4tihbSsGSMDBsE-KrFqGgzz1Q&usqp=CAU" group-title="UCL & UEL",beIN Sports 3 MY
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
+
 
 #EXTINF:-1 group-title="UCL & UEL" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
