@@ -993,8 +993,9 @@ https://flv.intechmedia.net/live/ch26.m3u8
 
 
 
-#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV (INDIHOME)
-https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+https://mui.siar.us/mui/live/playlist.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
 
 
 
