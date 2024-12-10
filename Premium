@@ -389,7 +389,7 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
  
  
  
- #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="DAERAH",Bungo TV
+#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="DAERAH",Balikpapan TV
