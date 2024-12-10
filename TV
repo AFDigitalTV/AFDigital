@@ -2048,10 +2048,8 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298029
 ==========LIGA INGGRIS========
 ==========LIGA INGGRIS========
 ==========LIGA INGGRIS========
-==========LIGA INGGRIS========
-==========LIGA INGGRIS========
-==========LIGA INGGRIS========
-==========LIGA INGGRIS========
+
+
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="LIGA INGGRIS",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -2088,6 +2086,19 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#EXTINF:-1 group-title="LIGA INGGRIS" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
 
