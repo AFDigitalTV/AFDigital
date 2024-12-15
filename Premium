@@ -760,8 +760,7 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
  
  
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="MOVIES",Bioskop Indonesia
-https://raw.githubusercontent.com/AFDigitalTV/Project/refs/heads/main/Bioskopindo.m3u8?token=GHSAT0AAAAAAC3YYIKIXVLHEILEFF6NJU3CZ26HYHA
-
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Bioskopindo.m3u8
 
  
  #EXTVLCOPT:http-referrer=https://www.indihometv.com
