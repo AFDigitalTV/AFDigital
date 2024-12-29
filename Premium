@@ -1261,6 +1261,8 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="MUSIC",MIC TV
 https://v2.siar.us/mic/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="musik.id" tvg-name="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OyeFSTUV_2U4GZOK3MSaK-ul9zUFZNJgyw&usqp=CAU" group-title="MUSIC",Musik Indonesia ID
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
