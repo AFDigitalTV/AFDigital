@@ -1262,6 +1262,20 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 https://v2.siar.us/mic/live/playlist.m3u8
 
 
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Musik Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="MUSIC",Musik Indonesia
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/MusicIndo.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/I-Konser.png" group-title="MUSIC",iKonser
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/IMusic.m3u8
+
+
+
 =========ENTERTAINMENT=========
 =========ENTERTAINMENT=========
 =========ENTERTAINMENT=========
