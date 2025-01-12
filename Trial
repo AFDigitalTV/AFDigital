@@ -869,9 +869,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png",FUN PLANET
-#https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
-
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/FunPlanet.m3u8
 
 
 
