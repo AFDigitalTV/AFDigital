@@ -227,7 +227,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/QvPY518/indonesiana.png" group-title="Indonesia",INDONESIANA TV
-https://op-group1-swiftservehd-1.dens.tv/h/h292/S1/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h292/S1/mnf.m3u8
 
 
 
@@ -940,7 +940,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-Ne
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="KIDS",Dunia Anak
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/DuniaAnak.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
+https://cdngb196.indihometv.com/joss/130/duniaanak/index.m3u
+
 
 
 
@@ -1070,9 +1071,6 @@ https://flv.intechmedia.net/live/ch7.m3u8
 https://flv.intechmedia.net/live/ch29.m3u8
 #https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="deikids.id" tvg-logo="https://i.ibb.co.com/bNQP3Hn/Fatwa.png",FATWA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls.kekikakademi.org/youtube/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="madanitv.id" tvg-logo="https://i.ibb.co.com/BLLK7pT/madanitv.png",MADANI TV
@@ -1723,10 +1721,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/fp808wS/Daznf1.png", DAZN F1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd 
 
 
 
@@ -1744,12 +1738,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co.com/fp808wS/Daznf1.png" group-title="SPORTS",DAZN F1 España
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
- 
+
 
 
 
@@ -1925,38 +1914,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="UCL & UEL", FOXSPORTS 🇲🇽
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" group-title="UCL & UEL", FOXSPORTS 2 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="UCL & UEL", FOXSPORTS 3 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="UCL & UEL", FOXSPORTS PREMIUM 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
 
 
 
@@ -2107,40 +2064,10 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298029
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
 #https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co.com/6ydwLxD/Dazn1.png" group-title="LIGA INGGRIS",DAZN 1 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.ibb.co.com/pXCy4H1/Dazn2.png" group-title="LIGA INGGRIS",DAZN 2 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co.com/TYKvYxd/Dazn3.png" group-title="LIGA INGGRIS",DAZN 3 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
- 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co.com/pn5Dz3q/Dazn4.png" group-title="LIGA INGGRIS",DAZN 4 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="LIGA INGGRIS", FOXSPORTS PREMIUM 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network
@@ -2276,25 +2203,7 @@ https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://iili.io/JhkZTap.png" group-title="LIGA SPANYOL LALIGA",LaLiga TV Hypermotion
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
- 
- 
-#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://iili.io/JhkZTap.png" group-title="LIGA SPANYOL LALIGA",LaLiga TV Hypermotion 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-  
-  
-#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://iili.io/JhkZTap.png" group-title="LIGA SPANYOL LALIGA",LaLiga TV Hypermotion 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
 
 
 
@@ -2305,16 +2214,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 
-
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co.com/LQG7tRg/Daznlaliga.png" group-title="LIGA SPANYOL LALIGA",DAZN LaLiga
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 
 
