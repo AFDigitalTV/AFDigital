@@ -2046,36 +2046,15 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298029
 ==========LIGA INGGRIS========
 
 
+#EXTINF:-1 tvg-name="DAZN 1 Spain" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",DAZN 1 Spain
+https://webhdrunns.mizhls.ru/lb/premium445/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="DAZN 2 Spain" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",DAZN 2 Spain
+https://webhdrunns.mizhls.ru/lb/premium446/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="DAZN 3 Spain" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",DAZN 3 Spain
+https://webhdrunns.mizhls.ru/lb/premium447/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="DAZN 4 Spain" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",DAZN 4 Spain
+https://webhdrunns.mizhls.ru/lb/premium448/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="LIGA INGGRIS",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm 
-#https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="LIGA INGGRIS",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
-#https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
@@ -2123,6 +2102,9 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
  
+#EXTINF:-1 tvg-name="Sky Sport 8 NZ" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",Sky Sport 8 NZ
+https://webhdrunns.mizhls.ru/lb/premium595/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 
 
 #EXTINF:-1 tvg-id="Match4 (HD).hu" tvg-logo="https://i.ibb.co.com/pKjvL3C/match4.png" group-title="LIGA INGGRIS", MATCH4 🇭🇺
