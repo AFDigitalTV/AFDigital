@@ -1857,7 +1857,20 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="Inter TV" tvg-logo="https://iili.io/Jmoau3J.png" group-title="SPORTS",Inter TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-033/stream.mpd
+ 
+#EXTINF:-1 tvg-id="Milan TV  230" tvg-logo="https://iili.io/JmoacQt.png" group-title="SPORTS",Milan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-025/stream.mpd
+ 
 
 
 
@@ -2245,8 +2258,12 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="LIGA INGGRIS",ESPN TV BRASIL
+https://super-cdn.link/espn/index.m3u8
 
 
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="LIGA INGGRIS",ESPN 3 TV BRASIL
+https://super-cdn.link/espn3/index.m3u8
 
 
 
@@ -2357,6 +2374,30 @@ https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8|Origin=https://claplivehdp
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd|referer=https://www.visionplus.id/
 
 
+#EXTINF:-1 tvg-id="DAZN 2.pt" tvg-logo="https://iili.io/d06YSBR.png" group-title="LIGA SPANYOL LALIGA",DAZN 2 TV PORTUGAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1 HD.de" tvg-logo="https://iili.io/d06YU1p.png" group-title="LIGA SPANYOL LALIGA",DAZN 1 Deutschland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
+
+
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="LIGA SPANYOL LALIGA",Ziggo Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
+
+
+
 #EXTINF:-1 group-title="LIGA SPANYOL LALIGA" tvg-logo="https://i.imgur.com/ooWSTU4.png",ARENA 3 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -2414,6 +2455,21 @@ https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 ==========LIGA ITALIA========
 ==========LIGA ITALIA========
 
+#EXTINF:-1 tvg-id="DAZN 1.it" tvg-logo="https://iili.io/d06YU1p.png" group-title="SERIE A ITALIA",DAZN 1 Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dct-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web
+
+
+
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="SERIE A ITALIA",Ziggo Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+
 
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.ibb.co.com/NYmWRqg/GO3-Sport-1.png" group-title="SERIE A ITALIA", GO3 Sport 1
@@ -2438,6 +2494,19 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+ 
+ 
+ #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SERIE A ITALIA",Abu Dhabi Sports Premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+ 
+ #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SERIE A ITALIA",Abu Dhabi Sports Premium 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+
  
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports2.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/qqwRFcZ2/20240114-104721.png" group-title="SERIE A ITALIA",Nova Sport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
