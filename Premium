@@ -2413,6 +2413,26 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spor
 
 LIGA ARAB
 
+#EXTINF:-1 tvg-id="1529" tvg-name="SK 1  ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="LIGA ARAB" ,SK 1  ( HR )
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1529
+
+
+#EXTINF:-1 tvg-id="1526" tvg-name="SK 1" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_RS_logo.png" group-title="LIGA ARAB" ,SK 1
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1526
+
+
+
+#EXTINF:-1 group-title="LIGA ARAB" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1723627450000&quality=70",DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="5210" tvg-name="DAZN SPORT 1 BAR  DE" tvg-logo="" group-title="LIGA ARAB" ,DAZN SPORT 1 BAR  DE
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/5210
+
+
 
 
 #EXTINF:-1 group-title="LIGA ARAB" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
@@ -2602,8 +2622,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 
-#EXTINF:-1 tvg-id="1529" tvg-name="SK 1  ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="Sport" ,SK 1  ( HR )
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1529
+
 
 
 
@@ -2627,8 +2646,7 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/13813
 
 
 
-#EXTINF:-1 tvg-id="1526" tvg-name="SK 1" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_RS_logo.png" group-title="Sport" ,SK 1
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1526
+
 
 
 
@@ -2761,8 +2779,7 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1505
 
 
 
-#EXTINF:-1 tvg-id="5210" tvg-name="DAZN SPORT 1 BAR  DE" tvg-logo="" group-title="Sport" ,DAZN SPORT 1 BAR  DE
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/5210
+
 
 
 
