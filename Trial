@@ -2117,6 +2117,12 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
+
+#EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="LIGA INGGRIS" ,BSports ESPN HD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1488
+
+
+
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="LIGA INGGRIS",ESPN TV BRASIL
 https://super-cdn.link/espn/index.m3u8
 
@@ -2128,6 +2134,37 @@ https://super-cdn.link/espn3/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="LIGA INGGRIS",ESPN 4 TV BRASIL
 https://super-cdn.link/espn4/index.m3u8
+
+
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="" group-title="LIGA INGGRIS" ,Sky Sport Premier League
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
+
+#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="" group-title="LIGA INGGRIS" ,Sky Sport 1 DE FHD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1487
+
+
+
+#EXTINF:-1 tvg-id="1457" tvg-name="Skx Sport Austria" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria.png" group-title="LIGA INGGRIS" ,Sky Sport Austria
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1457
+
+
+
+#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 1
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1515
+
+
+
+#EXTINF:-1 tvg-id="1513" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="LIGA INGGRIS"" ,Arena Sport 3
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1513
+
+
+#EXTINF:-1 tvg-id="1512" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 4
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1512
+
+
+
+#EXTINF:-1 tvg-id="1520" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 1 HR
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1520
 
 
 
@@ -2257,11 +2294,16 @@ https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_0
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 
+#EXTINF:-1 tvg-id="1519" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="LIGA SPANYOL" ,Arena Sport 2 HR
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1519
+
+
 
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://iili.io/JmoI2nf.png" group-title="LIGA SPANYOL",ESPN 2 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
 
 #EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1723627450000&quality=70",DAZN 1 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2714,13 +2756,10 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53548
 
 
 
-#EXTINF:-1 tvg-id="1520" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport" ,Arena Sport 1 HR
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1520
 
 
 
-#EXTINF:-1 tvg-id="1519" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="Sport" ,Arena Sport 2 HR
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1519
+
 
 
 
@@ -2739,8 +2778,6 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1516
 
 
 
-#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport" ,Arena Sport 1
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1515
 
 
 
@@ -2749,13 +2786,10 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1514
 
 
 
-#EXTINF:-1 tvg-id="1513" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Sport" ,Arena Sport 3
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1513
 
 
 
-#EXTINF:-1 tvg-id="1512" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Sport" ,Arena Sport 4
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1512
+
 
 
 
@@ -2843,8 +2877,7 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1489
 
 
 
-#EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="Sport" ,BSports ESPN HD
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1488
+
 
 
 
@@ -2873,8 +2906,6 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1481
 
 
 
-#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="" group-title="Sport" ,Skx Sport Premier League
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
 
 
 
@@ -2883,8 +2914,7 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1476
 
 
 
-#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="" group-title="Sport" ,Skx Sport 1 DE FHD
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1487
+
 
 
 
@@ -2898,8 +2928,6 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/33018
 
 
 
-#EXTINF:-1 tvg-id="1457" tvg-name="Skx Sport Austria" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria.png" group-title="Sport" ,Skx Sport Austria
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1457
 
 
 
