@@ -226,7 +226,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/QvPY518/indonesiana.png" group-title="Indonesia",INDONESIANA TV
-#https://op-group1-swiftservehd-1.dens.tv/h/h292/S1/mnf.m3u8
+https://tvstreamcast.com/indonesiana.m3u8
 
 
 
@@ -1076,7 +1076,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.m
 
 
 
-#EXTINF:-1 tvg-id="SALINGSAPA TV" tvg-logo="" group-title="RELIGI" , SALINGSAPA TV
+#EXTINF:-1 tvg-id="SALINGSAPA TV" tvg-logo="https://i.ibb.co.com/PJWY662/Salingsapatv.png" group-title="RELIGI" , SALINGSAPA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 
