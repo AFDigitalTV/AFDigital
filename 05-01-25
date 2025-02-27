@@ -1188,14 +1188,14 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/th97cC2/quran.png",Qur'an TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Quran_TV
+#https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Quran_TV
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png",Sunnah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
-
+#https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCROKYPep-UuODNwyipe6JMw
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/yPVKBJk/Muslimtv.png"group-title="RELIGI",Muslim TV
@@ -1214,8 +1214,8 @@ https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="RodjaTV.id" tvg-logo="https://i.ibb.co.com/37Wjk3p/rodja.png",RODJA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://rodjatv.com/rodjatv/live.m3u8
-
+#https://rodjatv.com/rodjatv/live.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
@@ -1260,6 +1260,50 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 
 
+#EXTINF:-1 group-title="RELIGI" tvg-id="rasyaad" tvg-logo="https://i.ibb.co.com/SG4bLSC/Rasyaad.png",RASYAAD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCotIkyDFzztbSm21GNGsK9w|user-agent=Mozilla/5.0 (X11; Linux x86_64)
+
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="https://i.ibb.co.com/M287VXV/medstv.png",MEDS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
+
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="https://i.ibb.co.com/KxkB2ny/srb.png",SRB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw|user-agent=Mozilla/5.0
+
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="tarbiyyah" tvg-logo="https://i.ibb.co.com/dshMxPb1/tarbiyyah.png",TARBIYYAH SUNNAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCM73P3XvOfj0HjC97KKYW5g
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="Ufa" tvg-logo="https://i.ibb.co.com/8LXbZ23M/Ufa.png",UFA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCSfNcvSwqOfA33QYkzZfB-g
+
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="https://i.ibb.co.com/SXBvHRcM/Ld.png",LAFADZ DO'A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
+
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="",RIKO MURROTAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCHzkGRP2y-3QJQWzVkHNGgg
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="st" tvg-logo="",SEYEGAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UC3TZXKcQ64uCtFWksEfIw0w
+
+
 #EXTINF:-1 group-title="RELIGI" tvg-id="surau" tvg-logo="https://i.ibb.co.com/JtnNMPM/surau.png",SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
@@ -1287,7 +1331,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="khbtv.id" tvg-logo="https://i.ibb.co.com/SVpPHsb/khb.png",KHB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCJHC3VbFsp7kJ2NxPGltwiw
 
 
 
@@ -1300,9 +1344,10 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png",MTA TV (INDIHOME)
+#EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
 
 
 
@@ -1315,7 +1360,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash_vmx/TVMuh
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="MuhammadiyahTV.id" tvg-logo="https://i.ibb.co.com/RB9CtH1/tvmu.png",TVMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://e.siar.us/live/tvmu.m3u8
+#https://e.siar.us/live/tvmu.m3u8
 
 
 
@@ -1347,6 +1392,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.ibb.co.com/T4qStm3/Artvisi.png",ARTVISI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="",AL IMAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://tv.aliman.id/aliman/live.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://i.ibb.co.com/6JTJfLT/deikids.png",DEI KIDS TV
@@ -1411,6 +1460,7 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiURcVbkm88e9V6Oj5yZkgq_jHJWF3h42wRKT8bmapaaAvGO1kyIV6yswbVHBkJM7vR4-Vrq54q0BNj69kD1dni2a4OAYqplx0ssTs11OfaaprRGX8jIsTA8pX0fWX1cxeSvQ3_tZjZp0Y/s200/IMG_20180815_172437_430.JPG",MALEO
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
