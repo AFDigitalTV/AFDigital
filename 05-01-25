@@ -32,17 +32,36 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Re
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
+
+#EXTINF:0 tvg-id="SCTV" tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="Indonesia", SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="Indonesia",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
+
+
+#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="" group-title="Indonesia", INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Indonesia",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 
@@ -3696,35 +3715,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="TEST",PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/64869862/18743571/167742
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="TEST",PT: SPORT TV 3 HD
-http://cord-cutter.net:8080/64869862/18743571/167744
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="TEST",PT: SPORT TV 4 FHD
-http://cord-cutter.net:8080/64869862/18743571/167745
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/64869862/18743571/167748
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/64869862/18743571/167749
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/64869862/18743571/167750
-
-
 
 
 
@@ -3757,16 +3747,6 @@ https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3
 
 
 
-#EXTINF:0 tvg-id="PL" tvg-logo="" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17624
-
-
-
 #EXTINF:0 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="TEST",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3790,10 +3770,3 @@ https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 
 
-#EXTINF:0 tvg-id="PL" tvg-logo="" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd|referer=https://www.visionplus.id
